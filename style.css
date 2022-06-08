@@ -10,6 +10,7 @@ p {
 }
 
 body {
+  background-color: #DDDDDD;
   margin-bottom: 100px;
 }
 
@@ -55,7 +56,7 @@ img {
 .flex {
   display: flex;
   flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
