@@ -57,12 +57,12 @@ img {
 .flex {
   display: flex;
   flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .flex > div {
-  flex: 1 1 200px;
+  flex: 1 1 400px;
   margin: 10px;
 }
 
